@@ -1,0 +1,17 @@
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance_Calculator.Form1.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\bin\Debug\net6.0-windows\Covariance Calculator.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\bin\Debug\net6.0-windows\Covariance Calculator.deps.json
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\bin\Debug\net6.0-windows\Covariance Calculator.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\bin\Debug\net6.0-windows\Covariance Calculator.dll
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\bin\Debug\net6.0-windows\Covariance Calculator.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.dll
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\refint\Covariance Calculator.dll
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\Covariance Calculator.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\Progetto Tesi\Covariance Calculator\Covariance Calculator\obj\Debug\net6.0-windows\ref\Covariance Calculator.dll
